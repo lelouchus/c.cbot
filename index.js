@@ -143,4 +143,4 @@ bot.on("message", function(message) {
     }
 }); 
 
-bot.on.login(process.env.BOT_TOKEN);
+bot.login(process.env.BOT_TOKEN);
